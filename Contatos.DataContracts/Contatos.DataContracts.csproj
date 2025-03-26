@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Version>1.0.6</Version>
+    <PackageId>tc3.contatos.datacontracts</PackageId>
+    <Title>Contatos.DataContracts</Title>
+    <Authors>felsc</Authors>
+    <Description>Biblioteca de classes de apoio para arquitetura de microsserviços de cadastro de contatos telefônicos.</Description>
+  </PropertyGroup>
+
+</Project>
